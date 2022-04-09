@@ -1,7 +1,7 @@
 ### Hi there! 👋
 I'm Xabier, a Bachelor's student at *Universitat Autònoma de Barcelona* (UAB), currently on the 4th year of [Nanoscience and Nanotechnology](https://www.uab.cat/web/estudiar/ehea-degrees/general-information/nanoscience-and-nanotechnology-1216708259085.html?param1=1263367118156) and 4th year of [Computational Mathematics and Data Analytics](https://www.uab.cat/web/estudiar/ehea-degrees/general-information-1216708259085.html?param1=1345740824235). 
 
-Originary from the Basque Country, my passion is getting involved in interesting and enriching projects, to learn and get amazed with all the things this world has to show us. Part scientist, part philosopher, and sure, part ✨programmer✨. That's me!
+Native to the Basque Country, my passion is getting involved in interesting and enriching projects, to learn and get amazed with all the things this world has to show us. Part scientist, part philosopher, and sure, part ✨programmer✨. That's me!
 
 #### Research Experience 📚
 - 🗓️ July and August 2019, summer fellowship in Dr. Pol Forn’s Quantum Computing [Lab](http://quantic.bsc.es/team/) at the Institute for High Energy Physics [IFAE](https://www.ifae.es/).
@@ -14,7 +14,7 @@ Originary from the Basque Country, my passion is getting involved in interesting
     -  Worked with Dr. Guillem Albareda and Dr. Xavier Oriols on the method to simulate quantum dynamics using Bohmian conditional wavefunctions to approximate the Many Body problem, presented in the thesis. The found method is currently in process for a paper. https://github.com/Oiangu9/Bohmian_Research_Lab_QuantumCAT
 
 - 🗓️ September 2021-present, Research Assistant at [Dr. Xavier Oriols' Group](http://europe.uab.es/xoriols/FrontPage.html) in UAB.
-    - Developing algorithms to solve the Quantum Many Body Problem using non-orthodox interpretations of Quantum Mechanics.
+    - Developing algorithms to deal with many body Open Quantum Systems through the use of conditional wavefunctions and non-orthodox interpretations of Quantum Mechanics.
 
 - 🗓️ September 2021-present, Bachelor's Thesis with Dr. Àlex Turpin at the [Quantum and Atom Optics Group](https://grupsderecerca.uab.cat/qaos/) in UAB
     - Development from scratch of a state of the art polarimeter (both software and hardware), based on Conical Refraction. https://github.com/Oiangu9/Conical_Refraction_Polarimeter
