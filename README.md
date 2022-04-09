@@ -16,7 +16,7 @@ Native to the Basque Country, my passion is getting involved in interesting and 
 - 🗓️ September 2021-present, Research Assistant at [Dr. Xavier Oriols' Group](http://europe.uab.es/xoriols/FrontPage.html) in UAB.
     - Developing algorithms to deal with many body Open Quantum Systems through the use of conditional wavefunctions and non-orthodox interpretations of Quantum Mechanics.
 
-- 🗓️ September 2021-present, Bachelor's Thesis with Dr. Àlex Turpin at the [Quantum and Atom Optics Group](https://grupsderecerca.uab.cat/qaos/) in UAB
+- 🗓️ September 2021-present, Bachelor's Thesis with Dr. Álex Turpin at the [Quantum and Atom Optics Group](https://grupsderecerca.uab.cat/qaos/) in UAB
     - Development from scratch of a state of the art polarimeter (both software and hardware), based on Conical Refraction. https://github.com/Oiangu9/Conical_Refraction_Polarimeter
 
 #### Work Experience ⚙️
