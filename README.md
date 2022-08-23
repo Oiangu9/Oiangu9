@@ -13,11 +13,11 @@ Native to the Basque Country, my passion is getting involved in interesting and 
 - 🗓️ 2020-2021 [QuantumCAT - QUASIBOHM](https://quantum-cat.cat/quantum-computing/quasibohm/) project:
     -  Worked with Dr. Guillem Albareda and Dr. Xavier Oriols on the method to simulate quantum dynamics using Bohmian conditional wavefunctions to approximate the Many Body problem, presented in the thesis. The found method is currently in process for a paper. https://github.com/Oiangu9/Bohmian_Research_Lab_QuantumCAT
 
-- 🗓️ September 2021-present, Research Assistant at [Dr. Xavier Oriols' Group](http://europe.uab.es/xoriols/FrontPage.html) in UAB.
-    - Developing algorithms to deal with many body Open Quantum Systems through the use of conditional wavefunctions and non-orthodox interpretations of Quantum Mechanics.
+- 🗓️ September 2021-2022, Research Assistant at [Dr. Xavier Oriols' Group](http://europe.uab.es/xoriols/FrontPage.html) in UAB.
+    - Developing algorithms to deal with many body Open Quantum Systems through the use of conditional wavefunctions.
 
-- 🗓️ September 2021-present, Bachelor's Thesis with Dr. Álex Turpin at the [Quantum and Atom Optics Group](https://grupsderecerca.uab.cat/qaos/) in UAB
-    - Development from scratch of a state of the art polarimeter (both software and hardware), based on Conical Refraction. https://github.com/Oiangu9/Conical_Refraction_Polarimeter
+- 🗓️ September 2021-2022, Bachelor's Thesis with Dr. Álex Turpin at the [Quantum and Atom Optics Group](https://grupsderecerca.uab.cat/qaos/) in UAB
+    - Development of a state of the art polarimeter (both software and hardware), based on Conical Refraction. https://github.com/Oiangu9/Conical_Refraction_Polarimeter
 
 #### Work Experience ⚙️
 - 🗓️ July 2020 to January 2021, Data Scientist at [Kognia Sports Intelligence](https://kogniasports.com/):
@@ -28,7 +28,7 @@ Native to the Basque Country, my passion is getting involved in interesting and 
 
  
 #### Personal Projects ⚗️
-- Based on a [paper](https://opg.optica.org/optica/fulltext.cfm?uri=optica-7-8-900&id=433965) published by Àlex Turpin et al., created a graphical user interface for 3D reconstruction with stereo images using OpenCV, in prder to transfer this capacity into a 1D sound detector. https://github.com/Oiangu9/Reconstructing_Space_with_Time
+- Based on a [paper](https://opg.optica.org/optica/fulltext.cfm?uri=optica-7-8-900&id=433965) published by Àlex Turpin et al., created a graphical user interface for 3D reconstruction with stereo images using OpenCV, in order to transfer this capacity into a 1D sound detector. https://github.com/Oiangu9/Reconstructing_Space_with_Time
 
 - Designed and implemented a self-motivated open source Quantum Dynamics Simulator software written in C++, for research and educational purposes. https://github.com/Oiangu9/XOA_QuantumDynamicsEngine
 
